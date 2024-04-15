@@ -1,0 +1,8 @@
+h1{
+    background-color: rgb(198, 203, 72);
+    
+}
+
+#h1-3{   /* Here applying external css to the id */
+    background-color: darkmagenta;
+}
